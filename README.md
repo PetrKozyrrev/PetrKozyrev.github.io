@@ -1,1 +1,5 @@
-# PetrKozyrev.github.io
+# Pizza Restaurant Template
+## Проект выполнил - Козырев Пётр
+### При создании прокта использовались технологии:
+- HTML
+- CSS
